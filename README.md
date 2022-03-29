@@ -1,1 +1,1 @@
-# Unit2-05-HTML-Salary
+[![GitHub's SuperLinter](https://github.com/ICS20-Programming-Ioana-M/Unit2-05-HTML-Salary/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Ioana-M/Unit2-05-HTML-Salary/actions)
