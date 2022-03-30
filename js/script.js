@@ -7,9 +7,9 @@ function calculate () {
   pay = parseFloat(document.getElementById('total-pay').value)
 
   // process
-  const TOTAL_EARNED = (hours * pay)
-  const TAX = (TOTAL_EARNED * 0.18)
-  const YOUR_MONEY = (TOTAL_EARNED - TAX)
+  const TOTAL_EARNED = hours * pay
+  const TAX = TOTAL_EARNED * 0.18
+  const YOUR_MONEY = TOTAL_EARNED - TAX
 
   // output
   document.getElementById('TOTAL_EARNED').innerHTML = "The amount of money you earned is $" + YOURMONEY + "."

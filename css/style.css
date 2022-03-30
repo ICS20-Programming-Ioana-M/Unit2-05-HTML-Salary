@@ -1,3 +1,15 @@
 .mar{
   margin-left: 70px;
 }
+
+body {
+	background-color: #b6f483;
+}
+
+h1 {
+	background-color: rgb(185, 185, 185);
+}
+
+p {
+	background-color: rgb(185, 185, 185); 
+}
